@@ -1,0 +1,64 @@
+
+
+University:
+Attributes:
+
+Name:gitam university
+Location:vizag
+Number of students:60
+Faculty members:20
+Courses offered:MCA,MBA
+Campus size:484000 squre yard
+
+Behaviors:
+Offering education:placements
+Conducting research:
+Providing academic support services :faculty, 
+Organizing events and extracurricular activities:sports,dances,flashmobs
+
+Bank:
+Attributes:
+
+Name:icici
+Location: vizag
+Types of accounts offered (savings, checking, etc.)
+Interest rates:
+Available financial products (loans, credit cards, etc.)
+ATM locations
+
+Behaviors:
+Accepting deposits
+Providing loans
+Processing financial transactions
+Offering financial advice and services
+
+Theatre:
+Attributes:
+
+Name:jagdamba theater
+Location:vizag
+Seating capacity:300
+Types of performances (plays, musicals, concerts, etc.)
+Ticket prices:160
+Schedule of performances:9-12
+
+Behaviors:
+Hosting live performances
+Selling tickets
+Managing seating arrangements
+Promoting upcoming shows
+Radio:
+
+Attributes:
+
+Name
+Frequency/channel
+Broadcast range
+Types of programs (music, news, talk shows, etc.)
+Broadcasting schedule
+DJs/hosts
+Behaviors:
+Broadcasting music, news, and other programs
+Hosting talk shows or interviews
+Advertisements and sponsorships
+Interacting with listeners through call-ins or social media platforms
